@@ -1,0 +1,57 @@
+/* @import "../../varibales.css"; */
+
+.header {
+  display: flex;
+  background-color: var(--dark-color);
+  justify-content: space-between;
+  color: var(--light-color);
+}
+
+.logo {
+  width: 2rem;
+  margin-right: 6px;
+}
+
+.images {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 1rem;
+}
+.hamburgerMenu {
+  visibility: hidden;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.nav li {
+  padding: 0.3rem;
+}
+.nav li:hover {
+  background-color: #336282;
+}
+.options {
+  position: absolute;
+  top: 46px;
+  left: -10px;
+  text-align: center;
+  z-index: 50;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.options li {
+  padding: 0.5rem;
+  background-color: var(--dark-color);
+}
+.options li:hover {
+  background-color: #336282;
+}
+.active {
+  visibility: visible;
+}
+a {
+  color: var(--light-color);
+}

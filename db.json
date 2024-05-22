@@ -1,0 +1,246 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "username": "adamlenssa",
+      "password": "password",
+      "email": "adam.lenssa@gmail.com",
+      "name": "Adam Lenssa",
+      "profilePicture": "../public/ProfilePictureOptions/Porfile-pic.jpg"
+    },
+    {
+      "id": "2",
+      "username": "huddazayed",
+      "email": "hudda.zayed@gmail.com",
+      "password": "helloworld",
+      "name": "Hudda Zayed",
+      "profilePicture": "../public/ProfilePictureOptions/15.jpg"
+    },
+    {
+      "id": "b9cf",
+      "username": "gaala",
+      "password": "muxxee",
+      "email": "gaala.boy@gmail.com",
+      "profilePicture": "./public/ProfilePictureOptions/9.jpg",
+      "name": "gaala boy"
+    }
+  ],
+  "songs": [
+    {
+      "id": "0",
+      "songname": "FILATAMTU KOO",
+      "artistname": "Sisay Tufa",
+      "link": "https://www.youtube.com/embed/Jxm1MhdG4qg?si=Sboe0wU794AIoZ9A",
+      "likes": 0,
+      "type": "Shewa"
+    },
+    {
+      "id": "1",
+      "songname": "Bilillee",
+      "artistname": "Andualem Gosa",
+      "link": "https://www.youtube.com/embed/vIiLS_w514A?si=zj2kusJSyhf5OGG8",
+      "likes": 0,
+      "type": "Shewa"
+    },
+    {
+      "id": "2",
+      "songname": "HAMBAA",
+      "artistname": "Gajo Tilahun",
+      "link": "https://www.youtube.com/embed/aOmG9iwCpTc?si=cHmcWpe6x8SgaNdN",
+      "likes": 0,
+      "type": "Wallaga"
+    },
+    {
+      "id": "3",
+      "songname": "Anatu",
+      "artistname": "Gutu Abera",
+      "link": "https://www.youtube.com/embed/bYxG4WCfjw8?si=UsCV1YM_49_C6XCO",
+      "likes": 0,
+      "type": "Modern"
+    },
+    {
+      "id": "4",
+      "songname": "GADHITTI Shillalaa Shii 2",
+      "artistname": "Eskindir Tamiru",
+      "link": "https://www.youtube.com/embed/mWRXjKYvEVs?si=4cfCkkCBRJDDEmjR",
+      "likes": 0,
+      "type": "Shewa"
+    },
+    {
+      "id": "5",
+      "songname": "Mee Maali",
+      "artistname": "Remedan Chimesa",
+      "link": "https://www.youtube.com/embed/zEnel2EPPvk?si=SAQ5S3yBGjsfJ1aR",
+      "likes": 0,
+      "type": "Shewa"
+    },
+    {
+      "id": "6",
+      "songname": "Sanyii Mootii",
+      "artistname": "Haacaaluu Hundessaa",
+      "link": "https://www.youtube.com/embed/GkHrvbHD9Vo?si=ccckGILDHwMGZEB6",
+      "likes": 0,
+      "type": "Jimmaa"
+    },
+    {
+      "id": "7",
+      "songname": "WAA JIRTI",
+      "artistname": "Eskindir Tamiru",
+      "link": "https://www.youtube.com/embed/xFA_oynIA-Q?si=E6eaY2i2TejEBuvc",
+      "likes": 0,
+      "type": "Jimmaa"
+    },
+    {
+      "id": "8",
+      "songname": "Anaajiyo",
+      "artistname": "Adam Ahimad",
+      "link": "https://www.youtube.com/embed/4moVw6O6Jtk?si=gwja0oq1a0kvym82",
+      "likes": 0,
+      "type": "Balee"
+    },
+    {
+      "id": "9",
+      "songname": "Sagli",
+      "artistname": "Lencho Gemechu",
+      "link": "https://www.youtube.com/embed/jBb_l4stfdw?si=w80OQ-XpuEjUhp_U",
+      "likes": 0,
+      "type": "Ilu Ababora"
+    },
+    {
+      "id": "10",
+      "songname": "Magaal Wallo",
+      "artistname": "Adnan Mohamed",
+      "link": "https://www.youtube.com/embed/LFktARA5Ikk?si=xrTIHiBsAOue6pNh",
+      "likes": 0,
+      "type": "Wallo"
+    },
+    {
+      "id": "dd63",
+      "artistname": "Joorji Abbu",
+      "songname": "Mirgaan Gale",
+      "link": "https://www.youtube.com/embed/srldFoE2V3k",
+      "type": "Arsi",
+      "likes": 0
+    },
+    {
+      "id": "2e49",
+      "artistname": "ESKINDIR TAMIRU",
+      "songname": "LEEYMANEE",
+      "link": "https://www.youtube.com/embed/JOSz9HZzKZo",
+      "type": "Hararghe",
+      "likes": 0
+    },
+    {
+      "id": "11f1",
+      "artistname": "Biiftuu Abdallaa",
+      "songname": "Sansakkaa",
+      "link": "https://www.youtube.com/embed/D80x3Q5axMU",
+      "type": "Hararghe",
+      "likes": "6"
+    },
+    {
+      "id": "35e2",
+      "artistname": "Shukri Jamal",
+      "songname": "Waadaa",
+      "link": "https://www.youtube.com/embed/FGTsE9JXZCk",
+      "type": "Shewa",
+      "likes": 0
+    },
+    {
+      "id": "78a1",
+      "artistname": "Sabboonaa Tafarraa",
+      "songname": "IYYOOLEE",
+      "link": "https://www.youtube.com/embed/QSfeTO8YWIY",
+      "type": "Wallaga",
+      "likes": "4"
+    },
+    {
+      "id": "efe3",
+      "artistname": "Adem Mohammed Arba",
+      "songname": "Gadaa Malee",
+      "link": "https://www.youtube.com/embed/XsqGg9ia4xU",
+      "type": "Borana",
+      "likes": "3"
+    }
+  ],
+  "favorites": [
+    {
+      "userid": "1",
+      "videoid": "1",
+      "id": "1"
+    },
+    {
+      "userid": "2",
+      "videoid": "1",
+      "id": "2"
+    },
+    {
+      "id": "4022",
+      "userid": "2",
+      "videoid": "2"
+    },
+    {
+      "id": "4cc9",
+      "userid": "1",
+      "videoid": "4"
+    },
+    {
+      "id": "b797",
+      "userid": "1",
+      "videoid": "7"
+    },
+    {
+      "id": "80e7",
+      "userid": "1",
+      "videoid": "6"
+    },
+    {
+      "id": "ff04",
+      "userid": "1",
+      "videoid": "8"
+    },
+    {
+      "id": "24fb",
+      "userid": "1",
+      "videoid": "78a1"
+    },
+    {
+      "id": "8e3d",
+      "userid": "1",
+      "videoid": "2"
+    },
+    {
+      "id": "9b75",
+      "userid": "1",
+      "videoid": "0"
+    }
+  ],
+  "artist": [
+    {
+      "id": "0",
+      "name": "Eskindir Tamiru"
+    },
+    {
+      "id": "1",
+      "name": "Andualem Gosa"
+    },
+    {
+      "id": "2",
+      "name": "Haacaaluu Hundessaa"
+    }
+  ],
+  "comments": [
+    {
+      "id": "0",
+      "userId": "1",
+      "videoId": "2",
+      "comment": "I can't get this song out of my head!"
+    },
+    {
+      "id": "1",
+      "userId": "2",
+      "videoId": "2",
+      "comment": "I have this song on repeat all the time!!!"
+    }
+  ]
+}

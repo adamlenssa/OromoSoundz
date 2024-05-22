@@ -1,0 +1,4 @@
+.filteredVideos {
+  display: flex;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,46 @@
+.wrapper {
+  position: relative;
+  width: 100%;
+}
+
+.profilePicture {
+  width: 3.5rem;
+  margin-right: 0.5rem;
+}
+
+.profilePicture img {
+  border-radius: 100%;
+}
+
+.text {
+  display: flex;
+}
+
+.text svg {
+  margin-left: 0.5rem;
+}
+
+.profileDisplay {
+  display: flex;
+  align-items: center;
+  background: transparent;
+}
+.menu {
+  position: absolute;
+  background-color: var(--dark-color);
+  width: 100%;
+  top: 100%;
+  left: -8px;
+  padding: 0.5rem;
+}
+.menu p {
+  text-align: center;
+  padding: 1rem;
+}
+.menu p:hover {
+  background-color: #336282;
+}
+.menu :nth-child(2) {
+  color: var(--danger);
+  font-size: large;
+}

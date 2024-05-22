@@ -1,0 +1,13 @@
+.songRow {
+  margin-bottom: 1rem;
+}
+
+.title {
+  color: var(--light-accent);
+  font-size: 2rem;
+}
+
+.row {
+  display: flex;
+  overflow-y: scroll;
+}
